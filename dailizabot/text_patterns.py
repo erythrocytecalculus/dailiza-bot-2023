@@ -74,4 +74,9 @@ psychobabble = [
       "Das klingt herausfordernd. Was könnte dir helfen?",
       "Das ist eine starke Aussage. Was bringt dich zu diesem Gefühl?"]],
       
+    [r"manchmal (.*)",
+    ["Manchmal ist es wichtig, solche Gefühle auszudrücken. Was denkst du darüber?",
+      "Das ist ein interessanter Gedanke. Hast du darüber nachgedacht, warum das so ist?",
+      "Es ist normal, solche Gedanken zu haben. Was hat dich dazu bewegt?"]],
+      
 ]
