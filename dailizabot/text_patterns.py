@@ -63,4 +63,10 @@ psychobabble = [
     ["Ist die Frage nicht, warum Du diese Frage stellst?",
      "Da sprichst Du ein spannendes Thema an! Was weißt Du noch darüber?",
      "Ich hab dich nicht genau verstanden, kannst Du es bitte nochmal erklären?"]],
+
+    [r"es ist (.*) gewesen",
+    ["Das klingt nach einer interessanten Erfahrung! Erzähl mir mehr.",
+      "Es ist immer spannend, solche Momente zu erleben. Was hat dir gefallen?",
+      "Klingt so, als wäre es eine denkwürdige Zeit gewesen!"]],
+      
 ]
