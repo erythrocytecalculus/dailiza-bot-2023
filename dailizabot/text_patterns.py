@@ -68,5 +68,10 @@ psychobabble = [
     ["Das klingt nach einer interessanten Erfahrung! Erzähl mir mehr.",
       "Es ist immer spannend, solche Momente zu erleben. Was hat dir gefallen?",
       "Klingt so, als wäre es eine denkwürdige Zeit gewesen!"]],
+
+    [r"alles ist (.*)",
+    ["Es scheint, als würde dich das beschäftigen. Magst du darüber reden?",
+      "Das klingt herausfordernd. Was könnte dir helfen?",
+      "Das ist eine starke Aussage. Was bringt dich zu diesem Gefühl?"]],
       
 ]
